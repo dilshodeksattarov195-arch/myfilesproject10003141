@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvrocess",
+        "uuid": 27907785,
+        "checksum": "58qcqp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
